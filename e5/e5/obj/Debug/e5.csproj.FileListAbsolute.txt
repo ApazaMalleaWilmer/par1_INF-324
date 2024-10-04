@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\bin\Debug\e5.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\bin\Debug\e5.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\bin\Debug\e5.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Form4.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Form5.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Form3.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Form6.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\e5\e5\obj\Debug\e5.Form7.resources
